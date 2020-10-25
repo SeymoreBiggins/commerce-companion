@@ -16,7 +16,7 @@
 Commerce Companion (Back End) is a back end framework for an e-commerce site using mysql2 and sequelize. It is fully equipped for CRUD interfacing and is ready for front end development.
 
 ## Images
-images go here
+![insomnia example](https://github.com/SeymoreBiggins/commerce-companion/blob/main/assets/insomnia%20example.JPG?raw=true)
 
 ## Installation
 1. install Node Package Manager and relevant packages in cmd
@@ -24,7 +24,7 @@ images go here
   * $ npm install mysql2 sequelize dotenv
 
 2. create a .env file with your mysql password
-  * image goes here
+  * ![.env example](https://github.com/SeymoreBiggins/commerce-companion/blob/main/assets/env%20example.JPG?raw=true)
 
 ## Usage
 1. Open mysql interface to instantiate the database and then exit mysql
