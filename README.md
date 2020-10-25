@@ -14,6 +14,7 @@
 Commerce Companion (Back End) is a back end framework for an e-commerce site using mysql2 and sequelize. It is fully equipped for CRUD interfacing and is ready for front end development.
 
 ## Images
+images go here
 
 ## Installation
 1. install Node Package Manager and relevant packages in cmd
@@ -35,6 +36,8 @@ Commerce Companion (Back End) is a back end framework for an e-commerce site usi
 
 3. You should see something like this to signal the database is up and running
   * App listening on port 3001!
+
+4. Open up insomnia and test the API routes (see video above)
 
 ## Contact
 For any questions or concerns, feel free to contact me by email [zachharris024@gmail.com](mailto:zachharris024@gmail.com) or reach out to me on my gitHub [SeymoreBiggins](https://https://github.com/SeymoreBiggins).
