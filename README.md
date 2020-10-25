@@ -1,6 +1,8 @@
 # Commerce Companion (Back End)
 
+[installation video](https://drive.google.com/file/d/1kGAq4NAqsSf2Oaz3Z0QR2K92EL9MApdi/view)
 
+[usage video](https://drive.google.com/file/d/1-8xcIJUQ6Zudah2bU-KO_wkMIz8D15WZ/view)
 
 ## Contents
 
@@ -27,7 +29,7 @@ images go here
 ## Usage
 1. Open mysql interface to instantiate the database and then exit mysql
   * $ mysql -u root -p
-  * $ soruce db/schema.sql
+  * $ source db/schema.sql
   * $ quit
 
 2. Seed the program and run through the cmd interface
